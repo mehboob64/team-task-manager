@@ -1,8 +1,8 @@
-node_modules/
+node_modules
+client/node_modules
+server/node_modules
+client/dist
+server/.env
 .env
-team-task-manager/node_modules/
-team-task-manager/client/node_modules/
-team-task-manager/server/node_modules/
-team-task-manager/client/dist/
-team-task-manager/server/.env
-*.log
+npm-debug.log*
+.DS_Store
